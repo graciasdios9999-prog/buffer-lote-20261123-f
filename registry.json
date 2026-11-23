@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-23",
+  "species_new": ["hoacin", "hoatzin", "chenchena", "pava hedionda"],
+  "faith_theme": "el pozo que sigue lleno cuando la cuerda se rompe",
+  "body_theme": "medula osea fabrica sangre; curcuma, jengibre, canela, ajo, menta",
+  "voices": {"ia": "es-MX-DaliaNeural", "refugio": "es-MX-JorgeNeural", "cuerpo": "es-AR-ElenaNeural"},
+  "durations_s": {"ia": 156.04, "refugio": 164.44, "cuerpo": 167.79},
+  "instagram": "no conectado en Buffer; video de cuerpo publicado en Anatomia del Engano"
+}
